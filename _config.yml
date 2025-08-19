@@ -1,0 +1,10 @@
+title: Paddle The Bay 25' Planning and Logistics
+description: Planning, safety and logistics for the 40km paddle across Donegal Bay
+url: https://iarxm.github.io/bpad
+repository: iarxm/bpad
+base-url: bpad
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
