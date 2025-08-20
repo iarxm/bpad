@@ -1,21 +1,32 @@
 
 # Paddle The Bay 25' Event Plan
 
+We have two teams.
+1. The paddle team with the mission of paddling the bay.
+1. The rescue team with the mission of mitigating risk and being ready for worst case scenarios.
+
+This document outlines suggested courses of action for each team.
+
 1. TOC
 {:toc}
 
 ## Emergency Information
 
-| INFO | DESCRIPTION                            |
-|------|----------------------------------------|
-|      | Phone Coastguard                       |
-|      | Phone Bundoran Lifeboat - Damon Fergus |
-|      | Phone Bundoran Lifeboat - Damon Fergus |
-|      | Phone Ambulance                        |
-|      | Coastguard Number                      |
-|      | Phone Safety 1 - Oisin                 |
-|      | Phone Safety 2 - Don                   |
-|      | Phone Safety 3 - Carsen                |
+| INFO                         | DESCRIPTION                            |
+|------------------------------|----------------------------------------|
+|                              |                                        |
+| mrscmalin@irishcoastguard.ie | Email Coastguard Malin Head Rescue     |
+| +353 74 937 0103             | Phone Coastguard Malin Head Rescue     |
+| +353 74 9370389              | Phone Coastguard Malin Head Rescue     |
+| +353 74 9370195              | Phone Coastguard Malin Head Rescue     |
+|                              |                                        |
+|                              | Phone Killybegs Coastguard - _         |
+|                              | Phone Bundoran Lifeboat - Damon Fergus |
+| 112 or 999                   | Phone Emergency Services               |
+|                              |                                        |
+|                              | Phone Safety 1 - Oisin                 |
+|                              | Phone Safety 2 - Don                   |
+|                              | Phone Safety 3 - Carsen                |
 
 GPS tracking links:
 
@@ -117,13 +128,13 @@ Using the Garmin Navionics Boating app for open water charting and tracking.
 | Tide high Mullaghmore | 18:13 3.8m  |
 
 
-#### Route Variations
+### Route Variations
 
 - Shoot photo the evening before and paddle directly from Teelin Pier
 - Stopping on land would likely add hours to the journey.
 
 
-#### Route B - Wide of St Johns; Swing Close By Mullaghmore
+#### Route 2 - Wide of St Johns; Close By Mullaghmore
 
 Beneficial depending on wind direction swings.
 
@@ -134,6 +145,7 @@ This route could add significantly to the distance
 | 1      | 1NM     | 20m | 07:00 | Carrigan Head                               |
 | 2      | 7NM     |     |       | 1NM W of Cardinal Bouy; 2.5NM W of St Johns |
 | 3      | --      |     |       | 1.5NM NE of Mullaghmore                     |
+
 
 
 ## Preparations
