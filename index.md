@@ -99,14 +99,33 @@ Navigation assistance with Navionics Boating app or compass as backup with headi
 
 
 
-### Preparations to Consider
+## Preparations to Consider
 
-1. Travel to launch point 1 night before - leave 7pm Thursday
+1. Option: Travel to launch point 1 night before - leave 19:00 Thursday
     1. Travel up and stay Thursday night with Ryan's contact in the area
     1. Use Ryan's van for SUP transport
     1. Use second vehicle for ski transport
 
-1. Equipment - 3x SUPs from Owen's. Collect before Thursday evening
+1. Option: Leave from Bundoran early morning at approximately 04:30
+
+1. Essential Equipment
+    - 3x SUPs from Owen's. Collect before Thursday evening
+    - 10L water each
+
+
+#### Other Equipment Optimisations
+
+1. Speed
+    1. Boards: If possible, source better quality race type SUPs. Potential +1km/hr gain
+    1. High quality paddles. Another potential +0.5km/hr
+    1. Water packs to minimize downtime.
+1. Navigation
+    1. Battery packs for 10hr+ smartphone assisted navigation.
+    1. Garmin Navionics App
+    1. Compass
+1. Repairs / injuries
+    1. Duck tape for rapid paddle repairs.
+    1. Gloves for hand blisters.
 
 
 ### Safety Modelling
@@ -117,15 +136,6 @@ Muscle injury tends to occur towards the final 1/4 of a larger endurance event, 
 
 SUP endurance injuries from repetitive strain can more often occur in the foot, hand, shoulder and neck area.
 
-
-#### Other Equipment Considerations
-
-1. Boards: If possible, source better race SUPs. Can add +1km/hr
-1. High quality paddles. Another +0.5km/hr
-1. Duck tape for paddle repairs.
-1. Battery packs for 10hr+ smartphone assisted navigation.
-1. Water packs to minimize downtime.
-1. Gloves for hand blisters.
 
 
 #### Risk Mitigation
@@ -150,9 +160,9 @@ A safety escort craft will be required for definite from 11:30 until 14:00.
 
 #### TASKS
 
-- [ ] Schedule specific breaks of 3m
+- [ ] Consider specific breaks of 3m
 
-- [ ] Send timestamped updates of waypoint arrival to station.
+- [ ] Send timestamped updates of waypoint arrival to land station.
 
 - [ ] Contact coast guard the day before and send plan of locations / times.
 
@@ -184,7 +194,7 @@ Using the Garmin Navionics Boating app for open water charting and tracking.
 - Stopping on land would likely add hours to the journey.
 
 
-#### Route 2 - Wide of St Johns; Swing by Mullaghmore
+#### Route B - Wide of St Johns; Swing Close By Mullaghmore
 
 Beneficial depending on wind direction swings.
 
@@ -214,7 +224,9 @@ Good window for paddling although Friday lacks downwind benefits.
 
 General Ski Support
 - Oisin
-- Chris
+- Carsen
+- Don
+- Conor
 
 | Week/day | Crew Available |
 |----------|----------------|
@@ -248,7 +260,7 @@ Worst Case Modelling - 2.5km/hr or less
 - Caught in tidal streams
 
 
-### Daylight Profiling Per Month
+#### Daylight Profiling Per Month
 
 | Dates           | Range         | Hours      |
 |-----------------|---------------|------------|
@@ -266,9 +278,8 @@ Worst Case Modelling - 2.5km/hr or less
 1. Ski to the cliffs from Teelin
 
 
-#### Route Plan Contingencies
 
-##### More Probable Contingencies
+#### More Probable Contingencies
 
 1. Ski to cliffs from Teeling
     - 1x Ski assist relay for whole paddle
@@ -283,7 +294,7 @@ Worst Case Modelling - 2.5km/hr or less
     - Chart a ~37km path
 
 
-##### Other Contingencies
+#### Other Contingencies
 
 1. Leave from Silver Strand
     - No req for boat to cliffs but extra distance
@@ -297,7 +308,7 @@ Worst Case Modelling - 2.5km/hr or less
     - Or 1x ski for ¼ to ½ distance and swap
 
 
-##### Reverse Routes
+#### Reverse Routes
 
 1. Leave from Bundoran to St Johns and back
     - Leave at dawn and have the choice to either stay the night or paddle back the same day
