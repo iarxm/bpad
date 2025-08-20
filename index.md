@@ -60,9 +60,11 @@ Speed modelling
 
 
 
-#### Route A - Direct Line To Bundoran Quay
+#### Route 1 Navigation Waypoints
 
-1. Direct line from Carrigan Head to Bundoran Quay
+Direct Line Carrigan To Bundoran
+
+1. Set a heading for a direct line from Carrigan Head to Bundoran Quay
 1. Aim slightly seawards of St Johns and cut tight by the cardinal buoy.
 1. Make sure to stay clear of tidal overfalls at St Johns.
 1. After St Johns, enter the most open stretch of water for 3 hours before Tullaghan will appear to the right side.
@@ -90,12 +92,12 @@ Speed modelling
 | 3      | 2.6NM | 1hr 20m | 15:30 | Boat Quay                               |
 
 
-#### Route A - Forecasting
+#### Route 1 Forecasting
 
 Beginning close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
 
 
-## Preparations to Consider
+## Preparations
 
 1. Option: Travel to launch point 1 night before - leave 19:00 Thursday
     1. Travel up and stay Thursday night with Ryan's contact in the area
@@ -104,17 +106,13 @@ Beginning close to Carrigan Head just after high tide. We are expected to pass t
 
 1. Option: Leave from Bundoran early morning at approximately 04:30
 
-1. Essential Equipment
-    - 3x SUPs from Owen's. Collect before Thursday evening
-    - 10L water each
+#### Equipment - Essential
 
+1. 3x SUPs from Owen's. Collect before Thursday evening
+1. 10L water each
 
-#### Other Equipment Optimisations
+#### Equipment - Safety
 
-1. Speed
-    1. Boards: If possible, source better quality race type SUPs. Potential +1km/hr gain
-    1. High quality paddles. Another potential +0.5km/hr
-    1. Water packs to minimize downtime.
 1. Navigation
     1. Battery packs for 10hr+ smartphone assisted navigation.
     1. Garmin Navionics App
@@ -122,6 +120,14 @@ Beginning close to Carrigan Head just after high tide. We are expected to pass t
 1. Repairs / injuries
     1. Duck tape for rapid paddle repairs.
     1. Gloves for hand blisters.
+
+
+#### Equipment - Optimisations
+
+1. Speed
+    1. Boards: If possible, source better quality race type SUPs. Potential +1km/hr gain
+    1. High quality paddles. Another potential +0.5km/hr
+    1. Water packs to minimize downtime.
 
 
 #### Charting
