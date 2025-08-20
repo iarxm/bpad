@@ -5,7 +5,7 @@ We have two teams.
 1. The paddle team with the mission of paddling the bay.
 1. The rescue team with the mission of mitigating risk and being ready for worst case scenarios.
 
-This document outlines important information, modelling and possible route variations per conditions for assisting team decisions on the day.
+This document outlines important information, modelling and possible route variations per conditions for assisting team decisions on Paddle Day.
 
 1. TOC
 {:toc}
@@ -112,7 +112,7 @@ Direct Line Carrigan To Bundoran
 1. We arrive in Bundoran Bay during the middle quarters pushing.
 
 
-#### Variables
+#### 08/22 Variables
 
 Using the Garmin Navionics Boating app for open water charting and tracking.
 
@@ -156,18 +156,20 @@ This route could add significantly to the distance
 
 ## Preparations
 
-1. Option: Travel to launch point 1 night before - leave 19:00 Thursday
-    1. Travel up and stay Thursday night with Ryan's contact in the area
-    1. Use Ryan's van for SUP transport
-    1. Use second vehicle for ski transport
+### Launching Options
 
-1. Option: Leave from Bundoran early morning at approximately 04:30
+1. Option: Travel to launch point 1 night before
+    1. Leave 19:00 Thursday and stay with Ryan's contact
+    1. Use van for SUP transport
+
+1. Option: Leave from Bundoran early morning 04:30
 
 
 #### Equipment - Essential
 
 1. 3x SUPs from Owen's. Collect before Thursday evening
 1. 10L water each
+
 
 #### Equipment - Safety
 
@@ -265,6 +267,8 @@ General Ski Support
 ## Route Modelling
 
 ### Time Predictions
+
+#### Speed Modelling
 
 Expected times for ~ 40km journey
 
