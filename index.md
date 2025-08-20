@@ -1,11 +1,11 @@
 
 # Paddle The Bay 25' Event Plan
 
-We have two teams.
-1. The paddle team with the mission of paddling the bay.
-1. The rescue team with the mission of mitigating risk and being ready for worst case scenarios.
-
 This document outlines important information, modelling and possible route variations per conditions for assisting team decisions on Paddle Day.
+
+- Paddle team mission: Paddle the bay.
+- Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
+
 
 1. TOC
 {:toc}
