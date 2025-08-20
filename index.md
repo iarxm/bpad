@@ -11,12 +11,12 @@ Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
 1. TOC
 {:toc}
 
-## Document TASKS
+## ESSENTIAL SAFETY
 
-- [ ] Consider specific breaks of 3m
 - [ ] Send timestamped updates of waypoint arrival to land station.
-- [ ] Contact coast guard the day before and send plan of locations / times.
+- [ ] Contact coast guard the day before with plan.
 - [ ] Contact coast guard at beginning of paddle.
+- [ ] Contact coast guard at end of paddle.
 
 
 ## Emergency Information
@@ -37,15 +37,15 @@ Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
 |                              | Phone Safety 1 - Oisin                 |
 |                              | Phone Safety 2 - Don                   |
 |                              | Phone Safety 3 - Carsen                |
+|                              |                                        |
+|                              | GPS tracking links                     |
+|                              | Map of AED locations                   |
+|                              | Map of extraction points               |
+|                              |                                        |
+|                              | Information Spreadsheet                |
 
-GPS tracking links:
 
-VHF Band:
-
-Map of AED locations:
-
-Map of extraction points:
-
+| VHF Band:
 
 ## Paddle Plan A
 
@@ -81,6 +81,7 @@ Speed modelling
 | 09.5hrs + | 32km direct line                              |
 | 11.5hrs + | 40km + (with zigzag and direction offsetting) |
 
+- Consider regular breaks of 3m
 
 
 #### Route 1 Navigation Waypoints
@@ -142,10 +143,11 @@ Direct Line Carrigan To Bundoran
 
 ### Route Variations
 
+#### Minor Contingencies
+
 - Shoot photo the evening before and paddle directly from Teelin Pier
 - Skip photo shoot at cliffs.
 - Stopping on land would likely add hours to the journey.
-
 - Leave later to avoid paddling against the tide.
 
 
