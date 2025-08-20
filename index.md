@@ -5,7 +5,7 @@
 
 Green Light for 08/22 Friday for the paddle from Slieve League to Bundoran Quay.
 
-Suggested timings based on 6am launch
+Summary of key suggested timings based on 6am launch
 
 | TIME/ETA    | EVENT                 |
 |-------------|-----------------------|
@@ -17,29 +17,33 @@ Suggested timings based on 6am launch
 
 Speed modelling
 
-| STAT      | CONDITION
+| STAT      | CONDITION                                     |
 |-----------|-----------------------------------------------|
 | 3.5km/hr  | Approximate speed; light downward breeze      |
 | 09.5hrs + | 32km direct line                              |
 | 11.5hrs + | 40km + (with zigzag and direction offsetting) |
 
 
+| TIME/ETA | EVENT                          |
+|----------|--------------------------------|
+| 06:00    | Pier Launch                    |
+| 06:22    | Photo shoot at cliffs          |
+| 06:30    | Begin paddle route from cliffs |
 
-### Day of The Paddle
 
-1. Leave pier at 06:00 to photo shoot at cliffs from 06:22 sunrise
-1. Begin paddle route at the cliffs from approximately 06:30
+#### Charting
+
+Via navigation assistance with Navionics Boating app or as backup a compass.
 
 
 #### Route 1 - Direct
 
-Direct line from Carrigan Head to Bundoran Quay via navigation assistance with Navionics Boating app or as backup a compass.
+1. Direct line from Carrigan Head to Bundoran Quay
+1. Aim slightly seawards of St Johns and cut tight by the cardinal buoy.
+1. Make sure to stay clear of tidal overfalls at St Johns.
+1. Then enter the most open patch of water for 3 hours before approaching with Tullaghan appearing to the right side.
+1. Bundoran Pier has no landmark behind it that can be seen at a large distance however it will be about equal distance between the Tulan sand dunes and Mount Aroo.
 
-We will aim just right of St Johns and cut in tight by the cardinal buoy, making sure to stay clear of the tidal overfalls. Then we enter the most open patch of water for about 3 hours before we will start closing in on Tullaghan.
-
-Bundoran Pier has no landmark behind it that can be seen at a large distance however it will be about equal distance between the Tulan sand dunes and Mount Aroo.
-
-We begin close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
 
 | Section | Km    | Hrs     | Time        | Description                    |
 |---------|-------|---------|-------------|--------------------------------|
@@ -60,6 +64,8 @@ We begin close to Carrigan Head just after high tide. We are expected to pass th
 | 1      | 3.3NM ~6km   | 1hr 45m | 13:00 | Mullaghmore Direct Rightwards           |
 | 2      | 2.0NM ~4km   | 1hr     | 14:00 | End of Shavers cove - Direct Rightwards |
 | 3      | 2.6NM ~5km   | 1hr 20m | 15:30 | Boat Quay                               |
+
+We begin close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
 
 
 ### Preparations to Consider
