@@ -5,7 +5,7 @@ We have two teams.
 1. The paddle team with the mission of paddling the bay.
 1. The rescue team with the mission of mitigating risk and being ready for worst case scenarios.
 
-This document outlines suggested courses of action for each team.
+This document outlines important information, modelling and possible route variations per conditions for assisting team decisions on the day.
 
 1. TOC
 {:toc}
@@ -107,7 +107,10 @@ Direct Line Carrigan To Bundoran
 
 #### Route 1 Forecasting
 
-Beginning close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
+1. Beginning close to Carrigan Head just after high tide.
+1. We are expected to pass the tidal overfalls area 1.5hrs before low tide.
+1. We arrive in Bundoran Bay during the middle quarters pushing.
+
 
 #### Variables
 
@@ -131,12 +134,15 @@ Using the Garmin Navionics Boating app for open water charting and tracking.
 ### Route Variations
 
 - Shoot photo the evening before and paddle directly from Teelin Pier
+- Skip photo shoot at cliffs.
 - Stopping on land would likely add hours to the journey.
+
+- Leave later to avoid paddling against the tide.
 
 
 #### Route 2 - Wide of St Johns; Close By Mullaghmore
 
-Beneficial depending on wind direction swings.
+Beneficial depending on changes in wind direction.
 
 This route could add significantly to the distance
 
@@ -228,19 +234,18 @@ A safety escort craft will be required for definite from 11:30 until 14:00.
 
 
 
-
-
 ## Forecasting
 
 ### Aug W3
 
-Good window for paddling although Friday lacks downwind benefits.
+- Good window for paddling.
+- Friday may be last window for many weeks but lacks downwind benefits.
 
 
 ### Long-range
 
 - Forecasting AUG W4: Potential storm cycles with swell
-- Forecasting SEP W1?
+- Forecasting SEP W1: Further storm cycles
 
 
 ### Safety Crew Availabilities
