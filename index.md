@@ -4,7 +4,7 @@
 1. TOC
 {:toc}
 
-## Most Important Emergency Information
+## Emergency Information
 
 | INFO | DESCRIPTION                            |
 |------|----------------------------------------|
@@ -16,6 +16,10 @@
 |      | Phone Safety 1 - Oisin                 |
 |      | Phone Safety 2 - Don                   |
 |      | Phone Safety 3 - Carsen                |
+
+GPS tracking links:
+
+VHF Band:
 
 
 Map for AED locations
@@ -34,6 +38,16 @@ Summary of key suggested timings based on 6am launch
 | 11:10       | WP St Johns           |
 | 15:30-17:30 | Bundoran Quay Arrival |
 
+
+### More Details
+
+| TIME/ETA | EVENT                          |
+|----------|--------------------------------|
+| 06:00    | Pier Launch                    |
+| 06:22    | Photo shoot at cliffs          |
+| 06:30    | Begin paddle route from cliffs |
+
+
 Speed modelling
 
 | STAT      | CONDITION                                     |
@@ -43,20 +57,13 @@ Speed modelling
 | 11.5hrs + | 40km + (with zigzag and direction offsetting) |
 
 
-| TIME/ETA | EVENT                          |
-|----------|--------------------------------|
-| 06:00    | Pier Launch                    |
-| 06:22    | Photo shoot at cliffs          |
-| 06:30    | Begin paddle route from cliffs |
 
-
-
-#### Route 1 - Direct
+#### Route A - Direct Line To Bundoran Quay
 
 1. Direct line from Carrigan Head to Bundoran Quay
 1. Aim slightly seawards of St Johns and cut tight by the cardinal buoy.
 1. Make sure to stay clear of tidal overfalls at St Johns.
-1. Then enter the most open patch of water for 3 hours before approaching with Tullaghan appearing to the right side.
+1. After St Johns, enter the most open stretch of water for 3 hours before Tullaghan will appear to the right side.
 1. Bundoran Pier has no landmark behind it that can be seen at a large distance however it will be about equal distance between the Tulan sand dunes and Mount Aroo.
 
 
@@ -66,21 +73,25 @@ Speed modelling
 | 2       | ~10km | 2.5 hrs | 08:30-11:10 | Muckross to St Johns           |
 | 3       | ~15km | 4 hrs   | 11:10-15:30 | St Johns to Bundoran           |
 
-| WPoint | NM Km        | Hrs     | ETA   | Description                             |
-|--------|--------------|---------|-------|-----------------------------------------|
-| 1      | 0.5NM ~1km   | 20m     | 06:50 | Carrigan Head                           |
-| 2      | 1.6NM ~3km   | 50m     | 07:40 | Teelin Inlet                            |
-| 2      | 1.6NM ~3km   | 50m     | 08:30 | Muckross Head                           |
-|        |              |         |       |                                         |
-| 1      | 1.7NM ~3km   | 55m     | 09:30 | Inishduff                               |
-| 2      | 2.2NM ~4km   | ~1hr    | 10:30 | Cardinal Buoy                           |
-| 3      | 1.3NM ~2.5km | 40m     | 11:10 | St Johns                                |
-|        |              |         |       |                                         |
-| 1      | 3.3NM ~6km   | 1hr 45m | 13:00 | Mullaghmore Direct Rightwards           |
-| 2      | 2.0NM ~4km   | 1hr     | 14:00 | End of Shavers cove - Direct Rightwards |
-| 3      | 2.6NM ~5km   | 1hr 20m | 15:30 | Boat Quay                               |
+| WPoint | NM Km | Hrs     | ETA   | Description                             |
+|--------|-------|---------|-------|-----------------------------------------|
+| 1      | 0.5NM | 20m     | 06:50 | Carrigan Head                           |
+| 2      | 1.6NM | 50m     | 07:40 | Teelin Inlet                            |
+| 2      | 1.6NM | 50m     | 08:30 | Muckross Head                           |
+|        |       |         |       |                                         |
+| 1      | 1.7NM | 55m     | 09:30 | Inishduff                               |
+| 2      | 2.2NM | ~1hr    | 10:30 | Cardinal Buoy                           |
+| 3      | 1.3NM | 40m     | 11:10 | St Johns                                |
+|        |       |         |       |                                         |
+| 1      | 3.3NM | 1hr 45m | 13:00 | Mullaghmore Direct Rightwards           |
+| 2      | 2.0NM | 1hr     | 14:00 | End of Shavers cove - Direct Rightwards |
+| 3      | 2.6NM | 1hr 20m | 15:30 | Boat Quay                               |
 
-We begin close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
+
+#### Forecasting for Route A
+
+Beginning close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
+
 
 #### Charting
 
