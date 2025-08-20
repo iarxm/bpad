@@ -26,6 +26,8 @@ Map for AED locations
 
 ## Paddle Plan A
 
+### Summary
+
 Green Light for 08/22 Friday for the paddle from Slieve League to Bundoran Quay.
 
 Summary of key suggested timings based on 6am launch
@@ -39,7 +41,7 @@ Summary of key suggested timings based on 6am launch
 | 15:30-17:30 | Bundoran Quay Arrival |
 
 
-### More Details
+### Details
 
 | TIME/ETA | EVENT                          |
 |----------|--------------------------------|
@@ -88,15 +90,9 @@ Speed modelling
 | 3      | 2.6NM | 1hr 20m | 15:30 | Boat Quay                               |
 
 
-#### Forecasting for Route A
+#### Route A - Forecasting
 
 Beginning close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
-
-
-#### Charting
-
-Navigation assistance with Navionics Boating app or compass as backup with heading established beforehand
-
 
 
 ## Preparations to Consider
@@ -128,6 +124,11 @@ Navigation assistance with Navionics Boating app or compass as backup with headi
     1. Gloves for hand blisters.
 
 
+#### Charting
+
+Navigation assistance with Navionics Boating app or compass as backup with heading established beforehand
+
+
 ### Safety Modelling
 
 #### Injury Risk
@@ -135,7 +136,6 @@ Navigation assistance with Navionics Boating app or compass as backup with headi
 Muscle injury tends to occur towards the final 1/4 of a larger endurance event, leaving multiple hours to paddle with an injury.
 
 SUP endurance injuries from repetitive strain can more often occur in the foot, hand, shoulder and neck area.
-
 
 
 #### Risk Mitigation
