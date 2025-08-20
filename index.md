@@ -108,13 +108,12 @@ Direct Line Carrigan To Bundoran
 #### Route 1 Forecasting
 
 1. Beginning close to Carrigan Head just after high tide.
-1. We are expected to pass the tidal overfalls area 1.5hrs before low tide.
-1. We arrive in Bundoran Bay during the middle quarters pushing.
+1. Pass the tidal overfalls area 1.5hrs before low tide.
+1. Arrive in Bundoran Bay during the middle quarters pushing.
 
 
 #### 08/22 Variables
 
-Using the Garmin Navionics Boating app for open water charting and tracking.
 
 | Marker                | Time        |
 |-----------------------|-------------|
@@ -164,14 +163,15 @@ This route could add significantly to the distance
 
 1. Option: Leave from Bundoran early morning 04:30
 
+### 
 
-#### Equipment - Essential
+### Equipment - Essential
 
 1. 3x SUPs from Owen's. Collect before Thursday evening
 1. 10L water each
 
 
-#### Equipment - Safety
+### Equipment - Safety
 
 1. Navigation
     1. Battery packs for 10hr+ smartphone assisted navigation.
@@ -182,17 +182,17 @@ This route could add significantly to the distance
     1. Gloves for hand blisters.
 
 
-#### Equipment - Optimisations
+### Equipment - Optimisations
 
-1. Speed
-    1. Boards: If possible, source better quality race type SUPs. Potential +1km/hr gain
-    1. High quality paddles. Another potential +0.5km/hr
-    1. Water packs to minimize downtime.
+1. Boards: If possible, source better quality race type SUPs. Potential +1km/hr gain
+1. High quality paddles. Another potential +0.5km/hr
+1. Water packs to minimize downtime.
 
 
 #### Charting
 
 Navigation assistance with Navionics Boating app or compass as backup with heading established beforehand
+Using the Garmin Navionics Boating app for open water charting and tracking.
 
 
 ## Safety Modelling
