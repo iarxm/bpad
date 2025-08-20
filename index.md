@@ -98,6 +98,43 @@ Direct Line Carrigan To Bundoran
 
 Beginning close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
 
+#### Variables
+
+Using the Garmin Navionics Boating app for open water charting and tracking.
+
+| Marker                | Time        |
+|-----------------------|-------------|
+| Sunrise               | 06:22       |
+| Sun Hours             | 14hrs 25m   |
+| Navigable Hours       | ~ 16hrs     |
+|                       |             |
+| Sunset                | 20:48       |
+| Nautical Twilight     | 22:17       |
+|                       |             |
+| Tide high Kilybegs    | 06:06 3.81m |
+| Tide Low Kilybegs     | 12:11 0.85m |
+| Tide high Kilybegs    | 18:20 4.01m |
+| Tide high Mullaghmore | 18:13 3.8m  |
+
+
+#### Route Variations
+
+- Shoot photo the evening before and paddle directly from Teelin Pier
+- Stopping on land would likely add hours to the journey.
+
+
+#### Route B - Wide of St Johns; Swing Close By Mullaghmore
+
+Beneficial depending on wind direction swings.
+
+This route could add significantly to the distance
+
+| WPoint | NM / km | Hrs | ETA   | Description                                 |
+|--------|---------|-----|-------|---------------------------------------------|
+| 1      | 1NM     | 20m | 07:00 | Carrigan Head                               |
+| 2      | 7NM     |     |       | 1NM W of Cardinal Bouy; 2.5NM W of St Johns |
+| 3      | --      |     |       | 1.5NM NE of Mullaghmore                     |
+
 
 ## Preparations
 
@@ -138,16 +175,16 @@ Beginning close to Carrigan Head just after high tide. We are expected to pass t
 Navigation assistance with Navionics Boating app or compass as backup with heading established beforehand
 
 
-### Safety Modelling
+## Safety Modelling
 
-#### Injury Risk
+### Injury Risk
 
 Muscle injury tends to occur towards the final 1/4 of a larger endurance event, leaving multiple hours to paddle with an injury.
 
 SUP endurance injuries from repetitive strain can more often occur in the foot, hand, shoulder and neck area.
 
 
-#### Risk Mitigation
+### Risk Mitigation
 
 | Condition                                      | Threshold / Trigger                  | Immediate Action                                  |
 |------------------------------------------------|--------------------------------------|---------------------------------------------------|
@@ -167,7 +204,7 @@ A safety escort craft will be required for definite from 11:30 until 14:00.
 - Another option is for each member to act as safety escort for the whole group on the SUP for the first 4 hours, then be joined by ski assist for 3 hours. The first four hours will be the safest window, before we chart into open water whilst fatigued.
 
 
-#### TASKS
+### TASKS
 
 - [ ] Consider specific breaks of 3m
 
@@ -178,42 +215,7 @@ A safety escort craft will be required for definite from 11:30 until 14:00.
 - [ ] Contact coast guard at beginning of paddle.
 
 
-#### Variables
 
-Using the Garmin Navionics Boating app for open water charting and tracking.
-
-| Marker                | Time        |
-|-----------------------|-------------|
-| Sunrise               | 06:22       |
-| Sun Hours             | 14hrs 25m   |
-| Navigable Hours       | ~ 16hrs     |
-|                       |             |
-| Sunset                | 20:48       |
-| Nautical Twilight     | 22:17       |
-|                       |             |
-| Tide high Kilybegs    | 06:06 3.81m |
-| Tide Low Kilybegs     | 12:11 0.85m |
-| Tide high Kilybegs    | 18:20 4.01m |
-| Tide high Mullaghmore | 18:13 3.8m  |
-
-
-#### Route Variations
-
-- Shoot photo the evening before and paddle directly from Teelin Pier
-- Stopping on land would likely add hours to the journey.
-
-
-#### Route B - Wide of St Johns; Swing Close By Mullaghmore
-
-Beneficial depending on wind direction swings.
-
-This route could add significantly to the distance
-
-| WPoint | NM / km | Hrs | ETA   | Description                                 |
-|--------|---------|-----|-------|---------------------------------------------|
-| 1      | 1NM     | 20m | 07:00 | Carrigan Head                               |
-| 2      | 7NM     |     |       | 1NM W of Cardinal Bouy; 2.5NM W of St Johns |
-| 3      | --      |     |       | 1.5NM NE of Mullaghmore                     |
 
 
 ## Forecasting
