@@ -3,17 +3,28 @@
 
 This document outlines important information, modelling and possible route variations per conditions for assisting team decisions on Paddle Day.
 
-- Paddle team mission: Paddle the bay.
-- Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
+Paddle team mission: Paddle the bay.
+
+Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
 
 
 1. TOC
 {:toc}
 
+## Document TASKS
+
+- [ ] Consider specific breaks of 3m
+- [ ] Send timestamped updates of waypoint arrival to land station.
+- [ ] Contact coast guard the day before and send plan of locations / times.
+- [ ] Contact coast guard at beginning of paddle.
+
+
 ## Emergency Information
 
 | INFO                         | DESCRIPTION                            |
 |------------------------------|----------------------------------------|
+|                              |                                        |
+| 112 or 999                   | Phone Emergency Services               |
 |                              |                                        |
 | mrscmalin@irishcoastguard.ie | Email Coastguard Malin Head Rescue     |
 | +353 74 937 0103             | Phone Coastguard Malin Head Rescue     |
@@ -22,7 +33,6 @@ This document outlines important information, modelling and possible route varia
 |                              |                                        |
 |                              | Phone Killybegs Coastguard - _         |
 |                              | Phone Bundoran Lifeboat - Damon Fergus |
-| 112 or 999                   | Phone Emergency Services               |
 |                              |                                        |
 |                              | Phone Safety 1 - Oisin                 |
 |                              | Phone Safety 2 - Don                   |
@@ -155,7 +165,7 @@ This route could add significantly to the distance
 
 ## Preparations
 
-### Launching Options
+### Launching Options - Paddle Team
 
 1. Option: Travel to launch point 1 night before
     1. Leave 19:00 Thursday and stay with Ryan's contact
@@ -163,7 +173,14 @@ This route could add significantly to the distance
 
 1. Option: Leave from Bundoran early morning 04:30
 
-### 
+
+### Base and Launching Options - Rescue Team
+
+1. Option: Base at Bundoran Quay with
+    1. Communications and equipment station at quay
+    1. 1x Jetski water assistance rotation per section
+    1. Rotate rolls
+
 
 ### Equipment - Essential
 
@@ -189,7 +206,7 @@ This route could add significantly to the distance
 1. Water packs to minimize downtime.
 
 
-#### Charting
+### Charting
 
 Navigation assistance with Navionics Boating app or compass as backup with heading established beforehand
 Using the Garmin Navionics Boating app for open water charting and tracking.
@@ -216,23 +233,25 @@ SUP endurance injuries from repetitive strain can more often occur in the foot, 
 | Heart rate > expected zone + 10%               | Strain detection                     | Slow pace; micro-rest; monitor                    |
 | GPS/signal dropout > 10 min                    | Comms failure                        | Fall back to backup tracker; support team alerted |
 
-The route is within close range of land within the first 4 hours, ensuring easy extraction within the group. The route then proceeds out to open water for 2.5 hours. This is the most high risk zone and craft safety is required.
 
-A safety escort craft will be required for definite from 11:30 until 14:00.
+### Section Analysis
+
+1. The group itself will be a self contained safety team with all members having trained as RLSS Beach Lifeguards.
+
+1. Section 1 and 2 is within close range of land.
+    1. Major dangers include.
+        1. Wildlife: whales and orcas
+        1. Boating traffic entering killybegs
+    1. Easy group extraction to land by group self sufficiency.
+
+1. The route then proceeds from St Johns Point into exposed open water for 2.5 hours.
+    1. This is the most high risk zone and craft safety is advised.
+    1. With a 50km/hr ski the paddlers will be within 15m of a ski based at Bundoran Quay.
+
 
 - One option is for the whole duration of the paddle each member within the group to cycle through jet ski escort.
 - Another option is for each member to act as safety escort for the whole group on the SUP for the first 4 hours, then be joined by ski assist for 3 hours. The first four hours will be the safest window, before we chart into open water whilst fatigued.
 
-
-### TASKS
-
-- [ ] Consider specific breaks of 3m
-
-- [ ] Send timestamped updates of waypoint arrival to land station.
-
-- [ ] Contact coast guard the day before and send plan of locations / times.
-
-- [ ] Contact coast guard at beginning of paddle.
 
 
 
