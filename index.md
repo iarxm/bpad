@@ -7,30 +7,22 @@ Green Light for 08/22 Friday for the paddle from Slieve League to Bundoran Quay.
 
 Suggested timings based on 6am launch
 
-| TIME/ETA    | EVENT                |
-|-------------|----------------------|
-| 06:00       | launch @ Teelin Pier |
-| 08:30       | Muckross Head        |
-| 11:10       | St Johns        |
-| 15:30-17:30 | Bundoran Arrival     |
+| TIME/ETA    | EVENT                 |
+|-------------|-----------------------|
+| 04:30       | Leave Bundoran        |
+| 06:00       | Launch @ Teelin Pier  |
+| 08:30       | WP Muckross Head      |
+| 11:10       | WP St Johns           |
+| 15:30-17:30 | Bundoran Quay Arrival |
 
 Speed modelling
 
 | STAT      | CONDITION
-|-----------|------------------------------------------------|
-| 3.5km/hr  | Approximate speed; light downward breeze       |
-| 09.5hrs + | 32km direct line                               |
-| 11.5hrs + | 40km + (with zig zag and direction offsetting) |
+|-----------|-----------------------------------------------|
+| 3.5km/hr  | Approximate speed; light downward breeze      |
+| 09.5hrs + | 32km direct line                              |
+| 11.5hrs + | 40km + (with zigzag and direction offsetting) |
 
-
-### Suggested Preparations
-
-1. Travel to launch point 1 night before - leave 7pm Thursday
-    1. Travel up and stay Thursday night with Ryan's contact in the area
-    1. Use Ryan's van for SUP transport
-    1. Use second vehicle for ski transport
-
-1. Equipment - 3x SUPs from Owen's. Collect before Thursday evening
 
 
 ### Day of The Paddle
@@ -70,7 +62,17 @@ We begin close to Carrigan Head just after high tide. We are expected to pass th
 | 3      | 2.6NM ~5km   | 1hr 20m | 15:30 | Boat Quay                               |
 
 
-### Safety Planning
+### Preparations to Consider
+
+1. Travel to launch point 1 night before - leave 7pm Thursday
+    1. Travel up and stay Thursday night with Ryan's contact in the area
+    1. Use Ryan's van for SUP transport
+    1. Use second vehicle for ski transport
+
+1. Equipment - 3x SUPs from Owen's. Collect before Thursday evening
+
+
+### Safety Modelling
 
 #### Injury Risk
 
