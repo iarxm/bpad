@@ -38,6 +38,8 @@ We will aim just right of St Johns and cut in tight by the cardinal buoy, making
 
 Bundoran Pier has no landmark behind it that can be seen at a large distance however it will be about equal distance between the Tulan sand dunes and Mount Aroo.
 
+We begin close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
+
 | Section | Km    | Hrs     | Time        | Description                    |
 |---------|-------|---------|-------------|--------------------------------|
 | 1       | ~07km | 2 hrs   | 06:30-08:30 | Carrigan Head to Muckross Head |
@@ -57,8 +59,6 @@ Bundoran Pier has no landmark behind it that can be seen at a large distance how
 | 1      | 3.3NM ~6km   | 1hr 45m | 13:00 | Mullaghmore Direct Rightwards           |
 | 2      | 2.0NM ~4km   | 1hr     | 14:00 | End of Shavers cove - Direct Rightwards |
 | 3      | 2.6NM ~5km   | 1hr 20m | 15:30 | Boat Quay                               |
-
-We begin close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
 
 
 ### Safety Planning
@@ -94,7 +94,7 @@ SUP endurance injuries from repetitive strain can more often occur in the foot, 
 
 The route is within close range of land within the first 4 hours, ensuring easy extraction within the group. The route then proceeds out to open water for 2.5 hours. This is the most high risk zone and craft safety is required.
 
-Craft assistance will be required from 11:30 until 14:00.
+Escort craft will be required for definite from 11:30 until 14:00.
 
 
 #### TASKS
