@@ -94,7 +94,10 @@ SUP endurance injuries from repetitive strain can more often occur in the foot, 
 
 The route is within close range of land within the first 4 hours, ensuring easy extraction within the group. The route then proceeds out to open water for 2.5 hours. This is the most high risk zone and craft safety is required.
 
-Escort craft will be required for definite from 11:30 until 14:00.
+A safety escort craft will be required for definite from 11:30 until 14:00.
+
+- One option is for the whole duration of the paddle each member within the group to cycle through jet ski escort.
+- Another option is for each member to act as safety escort for the whole group on the SUP for the first 4 hours, then be joined by ski assist for 3 hours. The first four hours will be the safest window, before we chart into open water whilst fatigued.
 
 
 #### TASKS
