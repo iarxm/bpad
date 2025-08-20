@@ -21,8 +21,10 @@ GPS tracking links:
 
 VHF Band:
 
+Map of AED locations:
 
-Map for AED locations
+Map of extraction points:
+
 
 ## Paddle Plan A
 
@@ -105,6 +107,7 @@ Beginning close to Carrigan Head just after high tide. We are expected to pass t
     1. Use second vehicle for ski transport
 
 1. Option: Leave from Bundoran early morning at approximately 04:30
+
 
 #### Equipment - Essential
 
