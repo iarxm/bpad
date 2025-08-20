@@ -197,13 +197,13 @@ This route could add significantly to the distance
 1. 10L water each
 
 
-### Equipment - Safety
+### Equipment - Personal Packs
 
-1. Navigation
+1. Safety - navigation
     1. Battery packs for 10hr+ smartphone assisted navigation.
     1. Garmin Navionics App
     1. Compass
-1. Repairs / injuries
+1. Safety - Repairs / injuries
     1. Duck tape for rapid paddle repairs.
     1. Gloves for hand blisters.
 
