@@ -1,20 +1,29 @@
+
 # Paddle The Bay 25' Planning
 
 ## Paddle Plan A
 
-Green Light for 08/22 Friday 6am launch @ Teelin Pier
+Green Light for 08/22 Friday for the paddle from Slieve League to Bundoran Quay.
 
-Paddle from Slieve League to Bundoran Quay.
+Suggested timings based on 6am launch
 
-Speed modelling:
-- Approximate speed with very light wind breeze ~ 3.5km/hr
-- Over 32km direct line - 9.5hrs+
-- Over 40km (with minor zig zag and direction offsetting) - 11.5hrs+
+| TIME/ETA    | EVENT                |
+|-------------|----------------------|
+| 06:00       | launch @ Teelin Pier |
+| 08:30       | Muckross Head        |
+| 11:10       | St Johns        |
+| 15:30-17:30 | Bundoran Arrival     |
 
-Bundoran ETA: 15:30 to 17:30
+Speed modelling
+
+| STAT      | CONDITION
+|-----------|------------------------------------------------|
+| 3.5km/hr  | Approximate speed; light downward breeze       |
+| 09.5hrs + | 32km direct line                               |
+| 11.5hrs + | 40km + (with zig zag and direction offsetting) |
 
 
-### Preparation
+### Suggested Preparations
 
 1. Travel to launch point 1 night before - leave 7pm Thursday
     1. Travel up and stay Thursday night with Ryan's contact in the area
@@ -192,7 +201,7 @@ Expected times for ~ 40km journey
 For reference, St Johns direct to Bundoran Quay in a straight line in ~4hrs is 3.5km/hr
 
 
-#### Worst Cases - 2.5km/hr or less
+Worst Case Modelling - 2.5km/hr or less
 
 - Minor injury
 - Severe weather shifts
@@ -200,7 +209,7 @@ For reference, St Johns direct to Bundoran Quay in a straight line in ~4hrs is 3
 - Caught in tidal streams
 
 
-### Daylight Profiling
+### Daylight Profiling Per Month
 
 | Dates           | Range         | Hours      |
 |-----------------|---------------|------------|
