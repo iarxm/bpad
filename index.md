@@ -181,6 +181,10 @@ This route could add significantly to the distance
     1. 1x Jetski water assistance rotation per section
     1. Rotate rolls
 
+1. Ski launch at Teelin for first section assistance
+    - Immediate access to cliffs
+    - Difficult for rotations and collaboration with other support screw
+
 
 ### Equipment - Essential
 
@@ -257,19 +261,19 @@ SUP endurance injuries from repetitive strain can more often occur in the foot, 
 
 ## Forecasting
 
-### Aug W3
+August Week 3:
 
 - Good window for paddling.
 - Friday may be last window for many weeks but lacks downwind benefits.
 
 
-### Long-range
+Long Range:
 
 - Forecasting AUG W4: Potential storm cycles with swell
 - Forecasting SEP W1: Further storm cycles
 
 
-### Safety Crew Availabilities
+Safety Crew Availabilities
 
 General Ski Support
 - Oisin
@@ -281,6 +285,7 @@ General Ski Support
 |----------|----------------|
 | AUG W3   |                |
 | AUG W4   |                |
+
 
 
 ## Route Modelling
