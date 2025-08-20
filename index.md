@@ -1,6 +1,25 @@
 
 # Paddle The Bay 25' Planning
 
+1. TOC
+{:toc}
+
+## Most Important Emergency Information
+
+| INFO | DESCRIPTION                            |
+|------|----------------------------------------|
+|      | Phone Coastguard                       |
+|      | Phone Bundoran Lifeboat - Damon Fergus |
+|      | Phone Bundoran Lifeboat - Damon Fergus |
+|      | Phone Ambulance                        |
+|      | Coastguard Number                      |
+|      | Phone Safety 1 - Oisin                 |
+|      | Phone Safety 2 - Don                   |
+|      | Phone Safety 3 - Carsen                |
+
+
+Map for AED locations
+
 ## Paddle Plan A
 
 Green Light for 08/22 Friday for the paddle from Slieve League to Bundoran Quay.
@@ -30,10 +49,6 @@ Speed modelling
 | 06:22    | Photo shoot at cliffs          |
 | 06:30    | Begin paddle route from cliffs |
 
-
-#### Charting
-
-Via navigation assistance with Navionics Boating app or as backup a compass.
 
 
 #### Route 1 - Direct
@@ -66,6 +81,11 @@ Via navigation assistance with Navionics Boating app or as backup a compass.
 | 3      | 2.6NM ~5km   | 1hr 20m | 15:30 | Boat Quay                               |
 
 We begin close to Carrigan Head just after high tide. We are expected to pass the tidal overfalls area 1.5hrs before low tide. We arrive in Bundoran Bay during the middle quarters pushing.
+
+#### Charting
+
+Navigation assistance with Navionics Boating app or compass as backup with heading established beforehand
+
 
 
 ### Preparations to Consider
