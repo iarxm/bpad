@@ -1,5 +1,5 @@
 
-# Paddle The Bay 25' Planning
+# Paddle The Bay 25' Event Plan
 
 1. TOC
 {:toc}
