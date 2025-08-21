@@ -17,8 +17,7 @@ Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
 - [ ] Contact coast guard the day before with plan.
 - [ ] Contact coast guard at beginning of paddle.
 - [ ] Contact coast guard at end of paddle.
-
-- [ ] Fixing bags to murfs sups
+- [ ] How to tie down personal kit onto murfs sups
 
 
 ## Emergency Information
