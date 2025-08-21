@@ -11,7 +11,11 @@ Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
 1. TOC
 {:toc}
 
-## ESSENTIAL SAFETY
+
+
+## Emergency
+
+### ESSENTIAL SAFETY
 
 - [ ] Send timestamped updates of waypoint arrival to land station.
 - [ ] Contact coast guard the day before with plan.
@@ -19,35 +23,34 @@ Rescue team mission: Mitigate risk and be on standby for worst case scenarios.
 - [ ] Contact coast guard at end of paddle.
 - [ ] How to tie down personal kit onto murfs sups
 
+### Information
 
-## Emergency Information
+| INFO             | DESCRIPTION                            |
+|------------------|----------------------------------------|
+|                  |                                        |
+| 112 or 999       | Phone Emergency Services               |
+|                  |                                        |
+| +353 74 937 0103 | Phone Coastguard Malin Head Rescue     |
+| +353 74 9370389  | Phone Coastguard Malin Head Rescue     |
+| +353 74 9370195  | Phone Coastguard Malin Head Rescue     |
+|                  |                                        |
+|                  | Phone Killybegs Coastguard - _         |
+|                  | Phone Bundoran Lifeboat - Damon Fergus |
+|                  |                                        |
+|                  | Phone Safety 1 - Oisin                 |
+|                  | Phone Safety 2 - Don                   |
+|                  | Phone Safety 3 - Carsen                |
+|                  |                                        |
+|                  | Phone Paddler 1 -                      |
+|                  | Phone Paddler 2 -                      |
+|                  | Phone Paddler 3 -                      |
 
-| INFO                                                                                                 | DESCRIPTION                            |
-|------------------------------------------------------------------------------------------------------|----------------------------------------|
-|                                                                                                      |                                        |
-| 112 or 999                                                                                           | Phone Emergency Services               |
-|                                                                                                      |                                        |
-| mrscmalin@irishcoastguard.ie                                                                         | Email Coastguard Malin Head Rescue     |
-| +353 74 937 0103                                                                                     | Phone Coastguard Malin Head Rescue     |
-| +353 74 9370389                                                                                      | Phone Coastguard Malin Head Rescue     |
-| +353 74 9370195                                                                                      | Phone Coastguard Malin Head Rescue     |
-|                                                                                                      |                                        |
-|                                                                                                      | Phone Killybegs Coastguard - _         |
-|                                                                                                      | Phone Bundoran Lifeboat - Damon Fergus |
-|                                                                                                      |                                        |
-|                                                                                                      | Phone Safety 1 - Oisin                 |
-|                                                                                                      | Phone Safety 2 - Don                   |
-|                                                                                                      | Phone Safety 3 - Carsen                |
-|                                                                                                      |                                        |
-| https://www.google.com/maps/d/u/0/edit?mid=1aoELeT0qnRHr5-4k04t5r_ePaqsd7Fo&usp=sharing              | Map of AED locations Bundoran Area |
-| In spreadsheet using 'Google Find'                                                                   | GPS tracking links                     |
-|                                                                                                      | Map of extraction points           |
-|                                                                                                      |                                    |
-| https://docs.google.com/spreadsheets/d/1vsDdrYe9NRZTNePb2Opir73Ya-KszJcKE9iZZMXbF5Q/edit?usp=sharing | Project Spreadsheet                |
-|                                                                                                      |                                    |
-
-
-| VHF Band:
+- Email Coastguard Malin Head Rescue: mrscmalin@irishcoastguard.ie
+- Map of AED locations Bundoran Area: https://www.google.com/maps/d/u/0/edit?mid=1aoELeT0qnRHr5-4k04t5r_ePaqsd7Fo&usp=sharing
+- GPS tracking: 'Google Find' links in spreadsheet
+- Map of extraction points:
+- Project Spreadsheet: https://docs.google.com/spreadsheets/d/1vsDdrYe9NRZTNePb2Opir73Ya-KszJcKE9iZZMXbF5Q/edit?usp=sharing
+- VHF Band:
 
 ## Paddle Plan A
 
